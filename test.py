@@ -8,7 +8,7 @@ from util import *
 from discord.ext import commands
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'ODYzMDM4NTgzMDY1NDExNjI0.YOhFUA.DTlIjYTzGp3Xz2ECRDXb00iaXlg'
+TOKEN = 'thisisdummy'
 
 # 起動準備
 intents = discord.Intents.default()

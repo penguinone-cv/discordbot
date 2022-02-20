@@ -1,0 +1,36 @@
+{
+    "result": [
+        {
+            "rule": "ガチエリア",
+            "rule_ex": {
+                "key": "splat_zones",
+                "name": "ガチエリア",
+                "statink": "area"
+            },
+            "maps": [
+                "タチウオパーキング",
+                "ホテルニューオートロ"
+            ],
+            "maps_ex": [
+                {
+                    "id": 8,
+                    "name": "タチウオパーキング",
+                    "image": "https://app.splatoon2.nintendo.net/images/stage/96fd8c0492331a30e60a217c94fd1d4c73a966cc.png",
+                    "statink": "tachiuo"
+                },
+                {
+                    "id": 19,
+                    "name": "ホテルニューオートロ",
+                    "image": "https://app.splatoon2.nintendo.net/images/stage/98a7d7a4009fae9fb7479554535425a5a604e88e.png",
+                    "statink": "otoro"
+                }
+            ],
+            "start": "2021-07-10T09:00:00",
+            "start_utc": "2021-07-10T00:00:00+00:00",
+            "start_t": 1625875200,
+            "end": "2021-07-10T11:00:00",
+            "end_utc": "2021-07-10T02:00:00+00:00",
+            "end_t": 1625882400
+        }
+    ]
+}
